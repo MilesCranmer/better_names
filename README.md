@@ -15,6 +15,14 @@ I find having intuitive names for concepts helps both with learning them, and fo
 - TS-rectangle engine = Carnot engine
 - Geometric Gravity = General Relativity
 
+# Non-descriptive names pending replacement
+
+- Feynman diagrams
+- Galois group
+- Hilbert space
+- Monster group
+- Christoffel symbols
+
 # Examples of good names
 
 - Thermodynamics
