@@ -22,6 +22,7 @@ I find having intuitive names for concepts helps both with learning them, and fo
 - Hilbert space
 - Monster group
 - Christoffel symbols
+- Ricci tensor
 
 # Examples of good names
 
@@ -30,3 +31,4 @@ I find having intuitive names for concepts helps both with learning them, and fo
 - Fast Radio Burst
 - Soft Gamma Repeater
 - Cosmic string
+- Surgery on the manifold
