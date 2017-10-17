@@ -29,3 +29,4 @@ I find having intuitive names for concepts helps both with learning them, and fo
 - Quantum Mechanics
 - Fast Radio Burst
 - Soft Gamma Repeater
+- Cosmic string
