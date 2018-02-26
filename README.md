@@ -12,7 +12,6 @@ I find having intuitive names for concepts helps both with learning them, and fo
     - Already suggested, not popularized
 - Wrapability = Gaussian curvature
     - As in, a sphere is easy to wrap up - you even get extra paper when folding it (+), but for the inside of a torus, the paper will rip (-)
-- TS-rectangle engine = Carnot engine
 - Geometric Gravity = General Relativity
 - Pre-processing dedispersion = Coherent dedispersion
     - The unchanged name is very bad in my opinion. The word coherent itself makes me forget what the meaning is
@@ -25,7 +24,9 @@ I find having intuitive names for concepts helps both with learning them, and fo
 - Hilbert space
 - Monster group
 - Christoffel symbols
-- Ricci tensor
+- Riemann, Ricci, Weyl, Einstein tensor, etc. (all of GR, really)
+    - The only good one is the stress-energy tensor
+- Carnot engine
 
 # Examples of good names
 
