@@ -39,3 +39,9 @@ I find having intuitive names for concepts helps both with learning them, and fo
 - Soft Gamma Repeater
 - Cosmic string
 - Surgery on the manifold
+
+# Use cases
+
+If lecturing, you could teach with the better name, and include a dictionary so students can Google with the "bad name."
+
+If using a name in a paper, consider writing something like the following: "...coherent dedispersion, which we will refer to as 'pre-processing dedispersion' in this paper,..." Obviously some names are broadly used in a field, like Bayesian statistics, so it may be best to only change the name of a subconcept (e.g., Bayesian information criterion) so you gradually chip away at the bad name.
