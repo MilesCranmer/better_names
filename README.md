@@ -8,7 +8,8 @@ I find having intuitive names for concepts helps both with learning them, and fo
     - Credit to Coltrane Faragher
 - Two-state Statistics = Fermi-Dirac Statistics
     - Credit to Coltrane Faragher
-- \_\_T ensembles (e.g., PVT-ensemble) = \_ canonical ensemble
+    - Alternative: Antisocial statistics
+- \_\_T ensembles (e.g., PVT-ensemble) = \_ canonical ensemble (e.g., Micro canonical ensemble)
     - Already suggested, not popularized
 - Wrapability = Gaussian curvature
     - As in, a sphere is easy to wrap up - you even get extra paper when folding it (+), but for the inside of a torus, the paper will rip (-)
@@ -27,6 +28,8 @@ I find having intuitive names for concepts helps both with learning them, and fo
 - Riemann, Ricci, Weyl, Einstein tensor, etc. (all of GR, really)
     - The only good one is the stress-energy tensor
 - Carnot engine
+- Bayesian statistics
+- Markov chain
 
 # Examples of good names
 
