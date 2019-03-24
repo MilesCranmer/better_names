@@ -31,6 +31,8 @@ I find having intuitive names for concepts helps both with learning them, and fo
     - The only good one is the stress-energy tensor
 - Carnot engine
 - Bayesian statistics
+- Fisher Information
+- Cramer-Rao Bound
 
 # Examples of good names
 
