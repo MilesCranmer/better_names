@@ -20,7 +20,7 @@ I find having intuitive names for concepts helps both with learning them, and fo
 - Memoryless Chain = Markov Chain
     - Credit to Alwin Mao
 - Likelihood Sharpness = Fisher Information
-    - The sharper the maximum likelihood peak with respect to a parameter, the higher the Fisher information.
+    - The sharper the maximum likelihood peak is with respect to a parameter, the higher the Fisher information.
 
 # Non-descriptive names pending replacement
 
