@@ -3,24 +3,30 @@ Choosing better names for scientific concepts, especially those with a human nam
 
 I find having intuitive names for concepts helps both with learning them, and for having an intuition when recalling them. To suggest an addition, either submit a pull request or email me.
 
-- Frequency transform = Fourier Transform
-- Pileup Statistics = Bose-Einstein Statistics
+## Stats/methods/math
+
+- **Frequency Transform** = Fourier Transform
+- **Wrapability** = Gaussian curvature
+    - As in, a sphere is easy to wrap up - you even get extra paper when folding it (+), but for the inside of a torus, the paper will rip (-)
+- **Memoryless Chain** = Markov Chain
+    - Credit to Alwin Mao
+- **Likelihood Sharpness** = Fisher Information
+    - The sharper the maximum likelihood peak is with respect to a parameter, the higher the Fisher information.
+
+## Astro/physics
+
+- **Pileup Statistics** = Bose-Einstein Statistics
     - Credit to Coltrane Faragher
-- Two-state Statistics = Fermi-Dirac Statistics
+- **Two-state Statistics** = Fermi-Dirac Statistics
     - Credit to Coltrane Faragher
     - Alternative: Antisocial statistics
-- \_\_T ensembles (e.g., PVT-ensemble) = \_ canonical ensemble (e.g., Micro canonical ensemble)
+- **\_\_T ensembles** (e.g., PVT-ensemble) = \_ canonical ensemble (e.g., Micro canonical ensemble)
     - Already suggested, not popularized
-- Wrapability = Gaussian curvature
-    - As in, a sphere is easy to wrap up - you even get extra paper when folding it (+), but for the inside of a torus, the paper will rip (-)
-- Geometric Gravity = General Relativity
-- Pre-processing dedispersion = Coherent dedispersion
+- **Geometric Gravity** = General Relativity
+- **Pre-processing dedispersion** = Coherent dedispersion
     - The unchanged name is very bad in my opinion. The word coherent itself makes me forget what the meaning is
-- Post-processing dedispersion = Incoherent dedispersion
-- Memoryless Chain = Markov Chain
-    - Credit to Alwin Mao
-- Likelihood Sharpness = Fisher Information
-    - The sharper the maximum likelihood peak is with respect to a parameter, the higher the Fisher information.
+- **Post-processing dedispersion** = Incoherent dedispersion
+
 
 # Non-descriptive names pending replacement
 
