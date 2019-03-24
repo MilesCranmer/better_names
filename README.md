@@ -17,6 +17,8 @@ I find having intuitive names for concepts helps both with learning them, and fo
 - Pre-processing dedispersion = Coherent dedispersion
     - The unchanged name is very bad in my opinion. The word coherent itself makes me forget what the meaning is
 - Post-processing dedispersion = Incoherent dedispersion
+- Memoryless Chain = Markov Chain
+    - Credit to Alwin Mao
 
 # Non-descriptive names pending replacement
 
@@ -29,7 +31,6 @@ I find having intuitive names for concepts helps both with learning them, and fo
     - The only good one is the stress-energy tensor
 - Carnot engine
 - Bayesian statistics
-- Markov chain
 
 # Examples of good names
 
