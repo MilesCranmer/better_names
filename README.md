@@ -1,7 +1,7 @@
 # New names
 Choosing better names for scientific concepts, especially those with a human name prefixing them.
 
-I find having intuitive names for concepts helps both with learning them, and for having an intuition when recalling them.
+I find having intuitive names for concepts helps both with learning them, and for having an intuition when recalling them. To suggest an addition, either submit a pull request or email me.
 
 - Frequency transform = Fourier Transform
 - Pileup Statistics = Bose-Einstein Statistics
