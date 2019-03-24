@@ -19,6 +19,8 @@ I find having intuitive names for concepts helps both with learning them, and fo
 - Post-processing dedispersion = Incoherent dedispersion
 - Memoryless Chain = Markov Chain
     - Credit to Alwin Mao
+- Likelihood Sharpness = Fisher Information
+    - The sharper the maximum likelihood peak with respect to a parameter, the higher the Fisher information.
 
 # Non-descriptive names pending replacement
 
@@ -31,7 +33,6 @@ I find having intuitive names for concepts helps both with learning them, and fo
     - The only good one is the stress-energy tensor
 - Carnot engine
 - Bayesian statistics
-- Fisher Information
 - Cramer-Rao Bound
 
 # Examples of good names
