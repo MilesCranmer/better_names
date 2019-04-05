@@ -12,6 +12,8 @@ I find having intuitive names for concepts helps both with learning them, and fo
     - Credit to Alwin Mao
 - **Likelihood Sharpness** = Fisher Information
     - The sharper the maximum likelihood peak is with respect to a parameter, the higher the Fisher information.
+- **Fully Marginalized Likelihood** = Bayes Evidence
+    - Credit to David Hogg
 
 ## Astro/physics
 
