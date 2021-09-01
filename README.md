@@ -3,33 +3,33 @@ Choosing better names for scientific concepts, especially those with a human nam
 
 I find having intuitive names for concepts helps both with learning them, and for having an intuition when recalling them. To suggest an addition, either submit a pull request or email me.
 
-## Stats/methods/math
+### Stats/methods/math
 
-- **Frequency Transform** = Fourier Transform
-- **Wrapability** = Gaussian curvature
+- Frequency Transform = Fourier Transform
+- Wrapability = Gaussian curvature
     - As in, a sphere is easy to wrap up - you even get extra paper when folding it (+), but for the inside of a torus, the paper will rip (-)
-- **Memoryless Chain** = Markov Chain
+- Memoryless Chain = Markov Chain
     - Credit to Alwin Mao
-- **Likelihood Sharpness** = Fisher Information
+- Likelihood Sharpness = Fisher Information
     - The sharper the maximum likelihood peak is with respect to a parameter, the higher the Fisher information.
-- **Fully Marginalized Likelihood** = Bayes Evidence
+- Fully Marginalized Likelihood = Bayes Evidence
     - Credit to David Hogg
-- **Sea Level** = Background noise term (in a mixture model)
+- Sea Level = Background noise term (in a mixture model)
     - Noise is used for too many things. For specific settings, "background noise" may be better suited as a name. But for mixture models in general, "sea Level" intuitively matches the sense of the minimum probability at any point - with mixture components rising up out of the sea.
 
-## Astro/physics
+### Astro/physics
 
-- **Pileup Statistics** = Bose-Einstein Statistics
+- Pileup Statistics = Bose-Einstein Statistics
     - Credit to Coltrane Faragher
-- **Two-state Statistics** = Fermi-Dirac Statistics
+- Two-state Statistics = Fermi-Dirac Statistics
     - Credit to Coltrane Faragher
     - Alternative: Antisocial statistics
-- **\_\_T ensembles** (e.g., PVT-ensemble) = \_ canonical ensemble (e.g., Micro canonical ensemble)
+- \_\_T ensembles (e.g., PVT-ensemble) = \_ canonical ensemble (e.g., Micro canonical ensemble)
     - Already suggested, not popularized
-- **Geometric Gravity** = General Relativity
-- **Pre-processing dedispersion** = Coherent dedispersion
+- Geometric Gravity = General Relativity
+- Pre-processing dedispersion = Coherent dedispersion
     - The unchanged name is very bad in my opinion. The word coherent itself makes me forget what the meaning is
-- **Post-processing dedispersion** = Incoherent dedispersion
+- Post-processing dedispersion = Incoherent dedispersion
 
 
 # Non-descriptive names pending replacement
@@ -44,6 +44,9 @@ I find having intuitive names for concepts helps both with learning them, and fo
 - Carnot engine
 - Bayesian statistics
 - Cramer-Rao Bound
+- Euler equations
+- Navier-Stokes equations
+- Boussinesq approximation
 
 # Examples of good names
 
