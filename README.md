@@ -14,8 +14,8 @@ I find having intuitive names for concepts helps both with learning them, and fo
     - The sharper the maximum likelihood peak is with respect to a parameter, the higher the Fisher information.
 - **Fully Marginalized Likelihood** = Bayes Evidence
     - Credit to David Hogg
-- **Sea Level** = Background Noise
-    - Noise is used for too many things. "Sea Level" intuitively matches the sense of the minimum probability at any point - with mixture components rising up out of the sea.
+- **Sea Level** = Background noise term (in a mixture model)
+    - Noise is used for too many things. For specific settings, "background noise" may be better suited as a name. But for mixture models in general, "sea Level" intuitively matches the sense of the minimum probability at any point - with mixture components rising up out of the sea.
 
 ## Astro/physics
 
